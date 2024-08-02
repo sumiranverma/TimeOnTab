@@ -1,0 +1,91 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f1faee;
+  color: #333;
+  width: 400px; 
+  padding: 20px;
+  box-sizing: border-box;
+  margin: 0 auto; 
+}
+
+.container {
+  text-align: center;
+}
+
+#logo {
+  width: 100px; /* Adjust the size as needed */
+  height: auto;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+  font-size: 38px;
+  color: #780000;
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+th, td {
+  border: 2px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #009879;
+  color: #ffffff;
+  text-align: left;
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+tr:hover {
+  background-color: #eaeaea;
+}
+
+tr:nth-child(odd) {
+  background-color: #f1f1f1;
+}
+
+table th, table td {
+  padding: 12px 15px;
+}
+
+table {
+  margin: 25px 0;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+}
+
+table th {
+  background-color: #00796b;
+  color: #ffffff;
+}
+
+table tr {
+  border-bottom: 2px solid #dddddd;
+}
+
+table tr:last-of-type {
+  border-bottom: 2px solid #00796b;
+}
+
+#logo {
+  width: 190px;
+  height: auto;
+}
