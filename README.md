@@ -1,6 +1,6 @@
 # TimeOnTab
 
-The TimeOnTab Chrome Extension is a productivity tool designed to help users monitor and manage their time spent on various websites. It provides an intuitive interface for starting and stopping time tracking, and presents a detailed timesheet that displays all tracked activities with accurate timestamps and total time spent.
+The TimeOnTab Chrome Extension is a productivity tool designed to help users monitor and manage their time spent on various websites. It provides an intuitive interface for starting and stopping time-tracking, and presents a detailed timesheet that displays all tracked activities with accurate timestamps and total time spent.
 
 ## Features
 - `Start/Stop Tracking`: Easily start and stop time tracking with a click.
@@ -22,4 +22,7 @@ The TimeOnTab Chrome Extension is a productivity tool designed to help users mon
 
 ## Demo
 
-[Watch the demo video](https://drive.google.com/file/d/1ioW4DwD3cow8u4LiCPG6PRyGSaqtH1Gh/view?usp=sharing)
+
+https://github.com/user-attachments/assets/f3804549-cdea-4a8d-a2d9-5d384d18d719
+
+
